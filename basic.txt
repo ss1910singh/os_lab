@@ -1,0 +1,48 @@
+pwd - print working directory
+
+ls - display the files and directories in the current directory
+
+mkdir "new_directory" - create a new directory named "new_directory"
+
+nano filename.txt - text editor with a new file named "filename.txt"
+
+mv folder/file.txt newfolder - move from one folder to other
+
+cat file1.txt file2.txt - show contant of file
+
+cat jjhj/hghg.txt head - It seems you want to display the contents of a file named "ab.txt" located in a directory named "os56", and then display the first few lines of that file using the head command.
+
+head ab.txt - top 10 show
+
+tail ab.txt - bottom 10 show
+
+man ls - The man command in Unix-like systems is used to display the manual page for a specific command. When you run man ls, it will display the manual page for the ls command, which is used to list directory contents.
+
+man cat - display the manual page for the cat command
+
+whoami - used to display the username of the current user who is logged in to the terminal session.
+
+man - isplay the manual pages for other commands, programs, and system functions.
+
+
+
+
+
+for shell:-
+$ chmod +x hello.sh
+$ ./hello.sh
+
+
+
+for move:-
+$ gcc mov.c -o mov
+$ ./mov file1 file2
+
+
+for cp:-
+$ gcc cp.c -o cp
+$ ./cp source.txt destination.txt
+
+for ls:-
+$ gcc ls.c -o ls
+$ ./ls /path/to/directory
