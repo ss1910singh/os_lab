@@ -1,5 +1,5 @@
 # ls
-ls -a - list all files including hidden files
+ * ls -a - list all files including hidden files
 ls -l - list all files in long format
 ls -la - list all files including hidden files in long format
 ls -lh - list all files in long format with readable file size
